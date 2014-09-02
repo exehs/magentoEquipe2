@@ -1,3 +1,3 @@
 magentoEquipe2
 ==============
-asdfasdf
+Projet de cours
