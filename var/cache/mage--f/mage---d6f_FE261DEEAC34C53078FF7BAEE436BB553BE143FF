@@ -1,0 +1,18 @@
+<div class="footer-container">
+    <div class="footer">
+        
+<ul>
+    <li><a href="http://172.17.102.175/magento/about-magento-demo-store?___SID=U">About Us</a></li>
+    <li><a href="http://172.17.102.175/magento/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://172.17.102.175/magento/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul><ul class="links">
+                        <li class="first" ><a href="http://172.17.102.175/magento/catalog/seo_sitemap/category/?___SID=U" title="Plan du Site" >Plan du Site</a></li>
+                                <li ><a href="http://172.17.102.175/magento/catalogsearch/term/popular/?___SID=U" title="Termes de recherche" >Termes de recherche</a></li>
+                                <li ><a href="http://172.17.102.175/magento/catalogsearch/advanced/?___SID=U" title="Recherche avancée" >Recherche avancée</a></li>
+                                <li ><a href="http://172.17.102.175/magento/sales/guest/form/?___SID=U" title="Commandes et Retours" >Commandes et Retours</a></li>
+                                <li class=" last" ><a href="http://172.17.102.175/magento/contacts/?___SID=U" title="Nous contacter" >Nous contacter</a></li>
+            </ul>
+        <p class="bugs">Aidez-nous à maintenir Magento en forme - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>Rapporter tous les bugs</strong></a> (ver. 1.9.0.1)</p>
+        <address>&copy; 2014 Magento Demo Store. All Rights Reserved.</address>
+    </div>
+</div>

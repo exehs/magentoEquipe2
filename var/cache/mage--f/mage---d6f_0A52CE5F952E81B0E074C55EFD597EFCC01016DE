@@ -1,0 +1,54 @@
+<div class="footer-container">
+    <div class="footer">
+        <div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="http://172.17.102.175/magento/newsletter/subscriber/new/?___SID=U" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Inscrivez-vous à notre newsletter</label>
+            </div>
+            <div class="input-box">
+               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Inscrivez-vous à notre newsletter" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="S'inscrire" class="button"><span><span>S'inscrire</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+
+<div class="links">
+    <div class="block-title">
+        <strong><span>Company</span></strong>
+    </div>
+    <ul>
+        <li><a href="http://172.17.102.175/magento/?___SID=Uabout-magento-demo-store/">About Us</a></li>
+        <li><a href="http://172.17.102.175/magento/?___SID=Ucontacts/">Contact Us</a></li>
+        <li><a href="http://172.17.102.175/magento/?___SID=Ucustomer-service/">Customer Service</a></li>
+        <li><a href="http://172.17.102.175/magento/?___SID=Uprivacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+    </ul>
+</div><div class="links">
+        <div class="block-title"><strong><span>Quick Links</span></strong></div>
+        <ul>
+                                    <li class="first" ><a href="http://172.17.102.175/magento/catalog/seo_sitemap/category/?___SID=U" title="Plan du Site" >Plan du Site</a></li>
+                                                <li ><a href="http://172.17.102.175/magento/catalogsearch/term/popular/?___SID=U" title="Termes de recherche" >Termes de recherche</a></li>
+                                                <li class=" last" ><a href="http://172.17.102.175/magento/catalogsearch/advanced/?___SID=U" title="Recherche avancée" >Recherche avancée</a></li>
+                        </ul>
+</div>
+<div class="links">
+        <div class="block-title"><strong><span>Compte</span></strong></div>
+        <ul>
+                                    <li class="first" ><a href="http://172.17.102.175/magento/customer/account/?___SID=U" title="Mon compte" >Mon compte</a></li>
+                                                <li class=" last" ><a href="http://172.17.102.175/magento/sales/guest/form/?___SID=U" title="Commandes et Retours" >Commandes et Retours</a></li>
+                        </ul>
+</div>
+        <address class="copyright">&copy; 2014 Magento Demo Store. All Rights Reserved.</address>
+    </div>
+</div>
